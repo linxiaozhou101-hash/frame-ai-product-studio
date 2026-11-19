@@ -1,0 +1,11 @@
+{
+  "style": "木质桌面",
+  "status": "SUCCEEDED",
+  "elapsed_seconds": 11.87,
+  "model": "wanx2.1-imageedit",
+  "prompt": "将白色蒙版区域内的原桌面和背景替换为以下完整场景：浅色原木桌面与柔和米色墙面组成的商品摄影场景。商品所在的整个承托面是细腻自然的浅橡木纹理，远处米色墙面简洁，侧面柔和日光，商品底部与木桌接触处有真实阴影。完整替换旧环境的纹理与颜色，只编辑商品以外的环境。黑色蒙版内是需要保留的原商品，保持商品的形状、颜色、材质、图案、文字和拍摄角度，保留原有轮廓、开口及把手，不给商品添加盖子或其他部件。商品位置与比例保持不变，输出真实的商业摄影图。",
+  "opaque_product_max_channel_difference": 0,
+  "background_mean_channel_difference": 50.2,
+  "background_changed_pixel_fraction": 0.997,
+  "edge_cleanup": true
+}

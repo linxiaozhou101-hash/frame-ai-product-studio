@@ -1,0 +1,21 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+*.log
+work/
+result.png
+result.json
+# Local tools, model weights and environment-specific files
+venv/
+*.onnx
+*.safetensors
+*.pem
+*.key
+.coverage
+htmlcov/
+.idea/
+.vscode/

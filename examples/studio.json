@@ -1,0 +1,12 @@
+{
+  "style": "简洁摄影棚",
+  "status": "SUCCEEDED",
+  "model": "wanx2.1-imageedit",
+  "prompt": "",
+  "opaque_product_max_channel_difference": 0,
+  "background_mean_channel_difference": 62.81,
+  "background_changed_pixel_fraction": 0.6355,
+  "edge_cleanup": true,
+  "retrieval_seconds": 1.17,
+  "elapsed_seconds": 7.6
+}

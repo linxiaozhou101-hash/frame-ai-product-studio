@@ -1,0 +1,11 @@
+{
+  "style": "浅色展台",
+  "status": "SUCCEEDED",
+  "elapsed_seconds": 8.36,
+  "model": "wanx2.1-imageedit",
+  "prompt": "将白色蒙版区域内的原桌面和背景替换为以下完整场景：象牙白色哑光石膏几何展台与淡米白色摄影棚背景。宽阔的石膏展台在商品下方承托商品，展台顶面水平，前缘和侧面清晰可见，材料平滑纯白、没有木纹。原来的桌面区域全部成为白色展台和淡米白色地面，商品底部有自然接触阴影，背景简洁干净。完整替换旧环境的纹理与颜色，只编辑商品以外的环境。黑色蒙版内是需要保留的原商品，保持商品的形状、颜色、材质、图案、文字和拍摄角度，保留原有轮廓、开口及把手，不给商品添加盖子或其他部件。商品位置与比例保持不变，输出真实的商业摄影图。",
+  "opaque_product_max_channel_difference": 0,
+  "background_mean_channel_difference": 55.32,
+  "background_changed_pixel_fraction": 0.8444,
+  "edge_cleanup": true
+}
